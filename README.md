@@ -1,2 +1,4 @@
 # ohtu-viikko1
-muutostesti123
+
+[![Build Status](https://travis-ci.org/vasdf/ohtu-viikko1.svg?branch=master)](https://travis-ci.org/vasdf/ohtu-viikko1)
+
