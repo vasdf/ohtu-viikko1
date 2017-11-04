@@ -1,0 +1,5 @@
+build
+/*.tmp
+/.nb-gradl
+e/
+

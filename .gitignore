@@ -3,3 +3,4 @@ build
 /.nb-gradle/
 .gradle
 
+/NhlStatistics1/.nb-gradle/
